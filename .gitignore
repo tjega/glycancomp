@@ -1,0 +1,10 @@
+InputModule/__pycache__/*
+PostProcess/__pycache__/*
+__pycache__/
+build/
+ProblemModule/__pycache__/*
+SimulationModule/__pycache__/*
+SolverModule/__pycache__/*
+.DS_Store
+.idea/*
+venv/
